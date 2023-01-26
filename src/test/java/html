@@ -1,8 +1,7 @@
-public class HTML {
 
-                  // Hyper Text Markup Language(HTML)
+                   Hyper Text Markup Language(HTML)
 
-    /*
+
     HTML, Web sayfaları hazırlamak için kullanılan bir İŞARETLEME DİLİDİR.
     * Html komutlarına "tag" denir.
     * • Taglar  "< >" işaretlerinin arasına yazılır.
@@ -17,11 +16,11 @@ public class HTML {
     bir aşamadır.
 
     * HTML 5, büyük / küçük harfe duyarlı değildir.(ignore case sensetive) Ama genellikle küçük harflerle yazılırlar.
-     */
 
-                          // En Temel HTML Tagları
 
-    /*
+                          En Temel HTML Tagları
+
+
     * En dışta  <html> </html>tag’leri yer alıyor.
     * Sonra gelen tag <head> </head>
     * daha sonraki tag <body> </body>’dir.
@@ -77,28 +76,3 @@ public class HTML {
      gruplamak için kullanılan taglardır.
      <div> tagı => Blok elemandır, kapladığı alan ne olursa olsun tüm satırı işgal eder.
      <span> => Inline elemandır, sadece kapladığı alan kadar yer işgal eder.
-
-
-
-     */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-}
