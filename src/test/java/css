@@ -1,9 +1,7 @@
-public class CSS {
+
+                 -Cascading Style Sheet(CSS) Nedir?-
 
 
-    //            -Cascading Style Sheet(CSS) Nedir?-
-
-    /*
  * CSS, web sayfalarını biçimlendirmek için
  HTML’nin tamamlayıcısı olarak kullanılan bir işaretleme dilidir.
 
@@ -14,12 +12,12 @@ public class CSS {
  Koddan önce 'style=' yazılır.
  Örneğin; <p style="color: red">Bugun CSS ogreniyorum</p> => web sayfasında "Bugun CSS ogreniyorum"
  cümlesi kırmızı renk gözükür.
-*/
 
 
-     //                 -En Temel CSS Kodları-
 
-    /*
+                    -En Temel CSS Kodları-
+
+
   * font-size:  Yazının büyüklüğünü değiştirmek için kullanılır.
 
   * text-align: Yazının sağda, solda, ortada veya sağa ve sola dayalı şekilde olması için kullanılır.
@@ -32,16 +30,16 @@ public class CSS {
 
 -Harici CSS Nedir?-
 
-* Web sitemize CSS eklemenin en uygun yolu, onu harici bir .css dosyasına bağlamaktır.
-* Harici bir CSS dosyasına bir bağlantı, yine sayfanın <head></head> bölümü arasına yerleştirilir.
+ * Web sitemize CSS eklemenin en uygun yolu, onu harici bir .css dosyasına bağlamaktır.
+ * Harici bir CSS dosyasına bir bağlantı, yine sayfanın <head></head> bölümü arasına yerleştirilir.
 Genel yazılımı </head> ın üst satırıdır.
 Örneğin; <link rel="stylesheet" href="css/style.css" />
   </head>
-* Aynı .css dosyası birden fazla sayfada kullanılabilir.
-*/
+ * Aynı .css dosyası birden fazla sayfada kullanılabilir.
 
-        //     -CSS Seçiciler (Selectors) Nedir?
-    /*
+
+            -CSS Seçiciler (Selectors) Nedir?
+
  *HTML sayfasında bulunan herhangi bir elemanı (elementi)
  veya birden fazla elemanı seçerek özelliklerini değiştirmemize olanak verir.
 
@@ -60,6 +58,7 @@ Genel yazılımı </head> ın üst satırıdır.
 .renk {
 text-align: center;
 color: red;
+
 }
 
 * web sayfamızda renk isminde tanımladıgımız HTML kodları kırmızı renk yazılacaktır.
@@ -98,7 +97,6 @@ underline, overline, line-through, none değerlerini alabilir.
 .kutu{
 padding: 50px;
 margin: 90px;
-}
+ }
 
- */
-}
+
